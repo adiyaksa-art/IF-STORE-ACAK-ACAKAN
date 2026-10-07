@@ -1,0 +1,1 @@
+<?php die("INI FILE YANG BENAR KOK"); ?>
